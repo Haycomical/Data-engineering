@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "687f5f91f607d3c0d2310301"
+  },
+  "book_id": 101,
+  "title": "The AI Revolution",
+  "author": "Ray Kurzweil",
+  "genre": "Technology",
+  "price": 799,
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "687f5f91f607d3c0d2310302"
+  },
+  "book_id": 102,
+  "title": "Cosmos",
+  "author": "carl sagan",
+  "genre": "science",
+  "price": 450,
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "687f5f91f607d3c0d2310303"
+  },
+  "book_id": 103,
+  "title": "the astronomy",
+  "author": "Neil degrass",
+  "genre": "science",
+  "price": 999,
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "687f5f91f607d3c0d2310304"
+  },
+  "book_id": 104,
+  "title": "Indian polity",
+  "author": "M.lakshmikanth",
+  "genre": "Fiction",
+  "price": 399,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "687f5f91f607d3c0d2310305"
+  },
+  "book_id": 105,
+  "title": "humans",
+  "author": "Godly renum",
+  "genre": "Self-help",
+  "price": 550,
+  "stock": 18
+}]

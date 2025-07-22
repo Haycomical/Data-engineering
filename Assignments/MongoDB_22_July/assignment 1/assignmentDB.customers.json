@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "687f5ff9f607d3c0d2310306"
+  },
+  "customer_id": 1,
+  "name": "Ana",
+  "email": "ana@example.com",
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "687f5ff9f607d3c0d2310307"
+  },
+  "customer_id": 2,
+  "name": "Arivu",
+  "email": "arivu@example.com",
+  "city": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "687f5ff9f607d3c0d2310308"
+  },
+  "customer_id": 3,
+  "name": "thenmozhi",
+  "email": "tm@example.com",
+  "city": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "687f5ff9f607d3c0d2310309"
+  },
+  "customer_id": 4,
+  "name": "Sneha",
+  "email": "sneha@example.com",
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "687f5ff9f607d3c0d231030a"
+  },
+  "customer_id": 5,
+  "name": "Jonna",
+  "email": "jonna@example.com",
+  "city": "Chennai"
+}]

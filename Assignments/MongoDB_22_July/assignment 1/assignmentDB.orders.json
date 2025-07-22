@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "687f6010f607d3c0d231030b"
+  },
+  "order_id": 201,
+  "customer_id": 1,
+  "book_id": 101,
+  "order_date": {
+    "$date": "2023-02-10T00:00:00.000Z"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d231030c"
+  },
+  "order_id": 202,
+  "customer_id": 2,
+  "book_id": 103,
+  "order_date": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d231030d"
+  },
+  "order_id": 203,
+  "customer_id": 3,
+  "book_id": 104,
+  "order_date": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "quantity": 3
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d231030e"
+  },
+  "order_id": 204,
+  "customer_id": 1,
+  "book_id": 105,
+  "order_date": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d231030f"
+  },
+  "order_id": 205,
+  "customer_id": 4,
+  "book_id": 102,
+  "order_date": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d2310310"
+  },
+  "order_id": 206,
+  "customer_id": 5,
+  "book_id": 103,
+  "order_date": {
+    "$date": "2024-03-22T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6010f607d3c0d2310311"
+  },
+  "order_id": 207,
+  "customer_id": 1,
+  "book_id": 104,
+  "order_date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310312"
+  },
+  "order_id": 201,
+  "customer_id": 1,
+  "book_id": 101,
+  "order_date": {
+    "$date": "2023-02-10T00:00:00.000Z"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310313"
+  },
+  "order_id": 202,
+  "customer_id": 2,
+  "book_id": 103,
+  "order_date": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310314"
+  },
+  "order_id": 203,
+  "customer_id": 3,
+  "book_id": 104,
+  "order_date": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "quantity": 3
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310315"
+  },
+  "order_id": 204,
+  "customer_id": 1,
+  "book_id": 105,
+  "order_date": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310316"
+  },
+  "order_id": 205,
+  "customer_id": 4,
+  "book_id": 102,
+  "order_date": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310317"
+  },
+  "order_id": 206,
+  "customer_id": 5,
+  "book_id": 103,
+  "order_date": {
+    "$date": "2024-03-22T00:00:00.000Z"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "687f6033f607d3c0d2310318"
+  },
+  "order_id": 207,
+  "customer_id": 1,
+  "book_id": 104,
+  "order_date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "quantity": 2
+}]
