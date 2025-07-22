@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38ec"
+  },
+  "watch_id": 1,
+  "user_id": 1,
+  "movie_id": 201,
+  "watched_on": {
+    "$date": "2023-01-05T00:00:00.000Z"
+  },
+  "watch_time": 120
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38ed"
+  },
+  "watch_id": 2,
+  "user_id": 1,
+  "movie_id": 202,
+  "watched_on": {
+    "$date": "2023-03-10T00:00:00.000Z"
+  },
+  "watch_time": 95
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38ee"
+  },
+  "watch_id": 3,
+  "user_id": 2,
+  "movie_id": 203,
+  "watched_on": {
+    "$date": "2023-01-12T00:00:00.000Z"
+  },
+  "watch_time": 80
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38ef"
+  },
+  "watch_id": 4,
+  "user_id": 3,
+  "movie_id": 204,
+  "watched_on": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "watch_time": 110
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38f0"
+  },
+  "watch_id": 5,
+  "user_id": 2,
+  "movie_id": 202,
+  "watched_on": {
+    "$date": "2023-06-21T00:00:00.000Z"
+  },
+  "watch_time": 95
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38f1"
+  },
+  "watch_id": 6,
+  "user_id": 4,
+  "movie_id": 206,
+  "watched_on": {
+    "$date": "2023-02-09T00:00:00.000Z"
+  },
+  "watch_time": 90
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38f2"
+  },
+  "watch_id": 7,
+  "user_id": 5,
+  "movie_id": 205,
+  "watched_on": {
+    "$date": "2023-07-02T00:00:00.000Z"
+  },
+  "watch_time": 105
+},
+{
+  "_id": {
+    "$oid": "687f6d2244e33470bbbf38f3"
+  },
+  "watch_id": 8,
+  "user_id": 1,
+  "movie_id": 202,
+  "watched_on": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "watch_time": 95
+}]

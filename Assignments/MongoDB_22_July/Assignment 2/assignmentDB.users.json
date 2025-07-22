@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "687f6c4d44e33470bbbf38e1"
+  },
+  "user_id": 1,
+  "name": "Kamal",
+  "email": "kh@mail.com",
+  "country": "India"
+},
+{
+  "_id": {
+    "$oid": "687f6c4d44e33470bbbf38e2"
+  },
+  "user_id": 2,
+  "name": "Cruise",
+  "email": "tc@mail.com",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "687f6c4d44e33470bbbf38e3"
+  },
+  "user_id": 3,
+  "name": "Jackie chan",
+  "email": "jc@mail.com",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "687f6c4d44e33470bbbf38e4"
+  },
+  "user_id": 4,
+  "name": "Idris elba",
+  "email": "ie@mail.com",
+  "country": "UK"
+},
+{
+  "_id": {
+    "$oid": "687f6c4d44e33470bbbf38e5"
+  },
+  "user_id": 5,
+  "name": "Mohammed Bin Salman",
+  "email": "MBS@mail.com",
+  "country": "UAE"
+}]

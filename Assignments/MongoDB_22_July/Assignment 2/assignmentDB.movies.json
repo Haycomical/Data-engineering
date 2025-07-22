@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38e6"
+  },
+  "movie_id": 201,
+  "title": "Gattaca",
+  "genre": "Sci-Fi",
+  "release_year": 1997,
+  "duration": 120
+},
+{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38e7"
+  },
+  "movie_id": 202,
+  "title": "eternal sunshine of spotless mind",
+  "genre": "Romance",
+  "release_year": 204,
+  "duration": 95
+},
+{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38e8"
+  },
+  "movie_id": 203,
+  "title": "Chernobyl",
+  "genre": "Documentary",
+  "release_year": 2016,
+  "duration": 80
+},
+{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38e9"
+  },
+  "movie_id": 204,
+  "title": "Sicario",
+  "genre": "Action",
+  "release_year": 2018,
+  "duration": 110
+},
+{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38ea"
+  },
+  "movie_id": 205,
+  "title": "Sixth sense",
+  "genre": "Horror",
+  "release_year": 1997,
+  "duration": 105
+},
+{
+  "_id": {
+    "$oid": "687f6d1344e33470bbbf38eb"
+  },
+  "movie_id": 206,
+  "title": "21 jump street",
+  "genre": "Comedy",
+  "release_year": 2015,
+  "duration": 90
+}]
