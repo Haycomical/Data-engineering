@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "687f6f0736b3abd8e03c92cf"
+  },
+  "sale_id": 1,
+  "product_id": 101,
+  "quantity": 2,
+  "date": {
+    "$date": "2024-08-10T00:00:00.000Z"
+  },
+  "customer": "Ravi"
+},
+{
+  "_id": {
+    "$oid": "687f6f0736b3abd8e03c92d0"
+  },
+  "sale_id": 2,
+  "product_id": 102,
+  "quantity": 3,
+  "date": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  },
+  "customer": "Ayesha"
+},
+{
+  "_id": {
+    "$oid": "687f6f0736b3abd8e03c92d1"
+  },
+  "sale_id": 3,
+  "product_id": 103,
+  "quantity": 5,
+  "date": {
+    "$date": "2024-08-14T00:00:00.000Z"
+  },
+  "customer": "Ravi"
+},
+{
+  "_id": {
+    "$oid": "687f6f0736b3abd8e03c92d2"
+  },
+  "sale_id": 4,
+  "product_id": 104,
+  "quantity": 1,
+  "date": {
+    "$date": "2024-08-14T00:00:00.000Z"
+  },
+  "customer": "John"
+},
+{
+  "_id": {
+    "$oid": "687f6f0736b3abd8e03c92d3"
+  },
+  "sale_id": 5,
+  "product_id": 105,
+  "quantity": 10,
+  "date": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  },
+  "customer": "Meena"
+}]

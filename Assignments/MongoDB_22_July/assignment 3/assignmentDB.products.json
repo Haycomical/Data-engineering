@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "687f6efb36b3abd8e03c92ca"
+  },
+  "product_id": 101,
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 55000,
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "687f6efb36b3abd8e03c92cb"
+  },
+  "product_id": 102,
+  "name": "Mobile",
+  "category": "Electronics",
+  "price": 25000,
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "687f6efb36b3abd8e03c92cc"
+  },
+  "product_id": 103,
+  "name": "Chair",
+  "category": "Furniture",
+  "price": 3000,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "687f6efb36b3abd8e03c92cd"
+  },
+  "product_id": 104,
+  "name": "Desk",
+  "category": "Furniture",
+  "price": 7000,
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "687f6efb36b3abd8e03c92ce"
+  },
+  "product_id": 105,
+  "name": "Book",
+  "category": "Stationery",
+  "price": 250,
+  "stock": 200
+}]
