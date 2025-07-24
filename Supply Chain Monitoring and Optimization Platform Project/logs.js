@@ -1,4 +1,4 @@
-use logs;
+
 
 db.logs.insertMany([
   {
