@@ -1,0 +1,11 @@
+order_id,supplier_id,item,delivery_date,delay_days,is_delayed
+O1001,S001,Widgets,2024-07-15,17,1
+O1002,S002,Gadgets,2024-07-25,7,1
+O1003,S001,Widgets,2024-07-18,14,1
+O1004,S003,Thingamajigs,2024-07-10,22,1
+O1005,S002,Gizmos,2024-07-22,10,1
+O1006,S004,Tools,2024-07-20,12,1
+O1007,S001,Widgets,2024-07-30,2,1
+O1008,S003,Thingamajigs,2024-07-21,11,1
+O1009,S004,Tools,2024-07-23,9,1
+O1010,S002,Gadgets,2024-07-28,4,1
