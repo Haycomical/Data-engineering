@@ -1,0 +1,11 @@
+orderid,customerid,product,deliverydate,region
+101,C001,Laptop,2024-07-25,North
+102,C002,Smartphone,2024-07-28,South
+103,C003,Bookshelf,2024-07-15,East
+104,C001,Headphones,2024-07-10,North
+105,C004,T-Shirt,2024-07-20,West
+106,C005,Textbook,2024-07-30,East
+107,C002,Jeans,2024-07-18,South
+108,C006,Sofa,2024-07-22,West
+109,C003,Encyclopedia,2024-07-23,East
+110,C004,Jacket,2024-07-19,West
